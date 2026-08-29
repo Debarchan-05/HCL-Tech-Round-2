@@ -1,0 +1,65 @@
+[
+  {
+    "id": "g001",
+    "title": "Data Scientist",
+    "keywords": ["data scientist", "data science", "ml engineer", "machine learning engineer", "analyst turned data scientist"],
+    "target_skills": ["python", "statistics", "pandas", "numpy", "data-visualization", "sql", "machine-learning", "deep-learning"],
+    "description": "Build predictive models and derive insights from data at scale."
+  },
+  {
+    "id": "g002",
+    "title": "AI/NLP Engineer",
+    "keywords": ["nlp engineer", "ai engineer", "llm engineer", "chatbot developer", "natural language processing"],
+    "target_skills": ["python", "statistics", "pandas", "machine-learning", "deep-learning", "nlp", "transformers"],
+    "description": "Build systems that understand and generate human language."
+  },
+  {
+    "id": "g003",
+    "title": "Full-Stack Web Developer",
+    "keywords": ["full stack developer", "full-stack developer", "web developer", "mern developer", "software developer web"],
+    "target_skills": ["html", "css", "javascript", "react", "nodejs", "rest-apis", "git", "project-experience"],
+    "description": "Build and ship complete web applications, frontend to backend."
+  },
+  {
+    "id": "g004",
+    "title": "Frontend Developer",
+    "keywords": ["frontend developer", "front-end developer", "ui developer", "react developer"],
+    "target_skills": ["html", "css", "javascript", "react", "typescript", "component-design"],
+    "description": "Craft performant, accessible, and delightful user interfaces."
+  },
+  {
+    "id": "g005",
+    "title": "Cloud/DevOps Engineer",
+    "keywords": ["devops engineer", "cloud engineer", "site reliability", "sre", "platform engineer"],
+    "target_skills": ["aws", "cloud-computing", "docker", "kubernetes", "ci-cd", "git"],
+    "description": "Build and operate reliable, automated infrastructure and deployment pipelines."
+  },
+  {
+    "id": "g006",
+    "title": "ML Ops Engineer",
+    "keywords": ["mlops engineer", "ml infrastructure", "ml platform engineer"],
+    "target_skills": ["python", "machine-learning", "docker", "mlops", "deployment", "ci-cd"],
+    "description": "Bridge machine learning and production engineering: deploy, monitor, and scale ML systems."
+  },
+  {
+    "id": "g007",
+    "title": "Product Designer / UX Designer",
+    "keywords": ["ux designer", "product designer", "ui/ux designer", "design career"],
+    "target_skills": ["ux-research", "product-thinking", "figma", "ui-design", "prototyping"],
+    "description": "Research, design, and validate user-centered digital products."
+  },
+  {
+    "id": "g008",
+    "title": "Data Engineer",
+    "keywords": ["data engineer", "data pipeline engineer", "big data engineer"],
+    "target_skills": ["python", "sql", "etl", "data-pipelines", "cloud-computing"],
+    "description": "Design and maintain the data infrastructure that powers analytics and ML."
+  },
+  {
+    "id": "g009",
+    "title": "Competitive Programmer / SDE",
+    "keywords": ["software engineer", "sde", "competitive programming", "coding interviews", "backend developer"],
+    "target_skills": ["python", "data-structures", "algorithms", "problem-solving", "git", "sql"],
+    "description": "Strengthen core CS fundamentals for software engineering roles and technical interviews."
+  }
+]

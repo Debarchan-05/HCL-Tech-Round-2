@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Generated data
+backend/data/profiles_store.json
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Env files
+.env
+.env.local
